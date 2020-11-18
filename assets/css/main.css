@@ -282,12 +282,6 @@ input, select, textarea {
 		font-size: 1.2em;
 	}
 
-	h2.underline
-	{
-			text-decoration: underline;
-			text-align: center;
-	}
-
 	h3 {
 		font-size: 0.9em;
 	}
