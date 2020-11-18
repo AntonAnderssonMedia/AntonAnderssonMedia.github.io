@@ -3401,10 +3401,6 @@ input, select, textarea {
 			width: 55em;
 		}
 
-		#banner .innercent {
-			margin: 0 auto;
-			width: 55em;
-		}
 
 		#banner .logo {
 			-moz-transition: opacity 2s ease, -moz-transform 1s ease;
