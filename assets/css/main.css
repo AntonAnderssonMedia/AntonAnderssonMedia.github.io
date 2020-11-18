@@ -2427,6 +2427,12 @@ input, select, textarea {
 		position: relative;
 	}
 
+	.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+	}
+
+
 		.image img {
 			border-radius: 5px;
 			display: block;
