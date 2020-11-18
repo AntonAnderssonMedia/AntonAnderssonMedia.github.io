@@ -179,7 +179,7 @@ input, select, textarea {
 
 	.center {
   display: block;
-  margin-left: auto;
+  margin-left: 40%;
   margin-right: auto;
   width: 50%;
 }
