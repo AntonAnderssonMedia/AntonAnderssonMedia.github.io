@@ -3402,7 +3402,7 @@ input, select, textarea {
 		}
 
 		#banner .innercent {
-			margin: 60% auto;
+			margin: 0 auto;
 			width: 55em;
 		}
 
