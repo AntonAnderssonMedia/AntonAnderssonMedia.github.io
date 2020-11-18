@@ -247,9 +247,9 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
-	p.underline
+	p.centered
 	{
-			text-decoration: underline;
+			margin: 0 0 2em 0;
 			text-align: center;
 	}
 
