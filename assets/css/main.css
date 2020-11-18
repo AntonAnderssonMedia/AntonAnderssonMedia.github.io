@@ -181,8 +181,7 @@ input, select, textarea {
   display: block;
   margin-left: 40%;
   margin-right: 40%;
-  width: 50%;
-}
+	}
 
 		a:hover {
 			border-bottom-color: transparent;
