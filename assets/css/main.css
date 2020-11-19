@@ -239,6 +239,13 @@ input, select, textarea {
 			a.special:not(.button):active:before {
 				background-color: rgba(255, 255, 255, 0.075);
 			}
+			a.imagecent{
+			  display: block;
+			  margin-left: auto;
+			  margin-right: auto;
+			  width: 40%;
+				}
+
 
 	strong, b {
 		color: #ffffff;
@@ -2425,13 +2432,6 @@ input, select, textarea {
 		border: 0;
 		display: inline-block;
 		position: center;
-	}
-
-	.imagecent{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;
 	}
 
 	.marginauto {
