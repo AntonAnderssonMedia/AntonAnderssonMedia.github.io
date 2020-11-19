@@ -3429,7 +3429,7 @@ input, select, textarea {
 				text-align: center;
 				width: 2.25em;
 			}
-/*
+
 		#banner h2 {
 			-moz-transition: opacity 0.5s ease, -moz-transform 0.5s ease, -moz-filter 0.25s ease;
 			-webkit-transition: opacity 0.5s ease, -webkit-transform 0.5s ease, -webkit-filter 0.25s ease;
@@ -3453,7 +3453,7 @@ input, select, textarea {
 			margin-bottom: 0.8em;
 			padding-bottom: 0.4em;
 		}
-*/
+/*
 		#banner2 h2 {
 			-moz-transition: opacity 0.5s ease, -moz-transform 0.5s ease, -moz-filter 0.25s ease;
 			-webkit-transition: opacity 0.5s ease, -webkit-transform 0.5s ease, -webkit-filter 0.25s ease;
@@ -3478,7 +3478,7 @@ input, select, textarea {
 			padding-bottom: 0.4em;
 			margin-left: auto;
 		}
-
+*/
 		#banner p {
 			-moz-transition: opacity 0.5s ease, -moz-transform 0.5s ease, -moz-filter 0.25s ease;
 			-webkit-transition: opacity 0.5s ease, -webkit-transform 0.5s ease, -webkit-filter 0.25s ease;
