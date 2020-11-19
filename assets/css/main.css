@@ -285,9 +285,12 @@ input, select, textarea {
 			font-weight: 200;
 		}
 
-		h1.major, h2.major, h3.major, h4.major, h5.major, h6.major {
+		h1.major, h3.major, h4.major, h5.major, h6.major {
 			padding-bottom: 1em;
 			border-bottom: solid 2px rgba(255, 255, 255, 0.125);
+		}
+		h2.major{
+			padding-bottom: 1em;
 		}
 
 	h2 {
