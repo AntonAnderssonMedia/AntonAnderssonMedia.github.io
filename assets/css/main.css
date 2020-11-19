@@ -2429,9 +2429,9 @@ input, select, textarea {
 
 	.imagecent{
   display: block;
-  margin-left: auto;
+  margin-left: 40%;
   margin-right: auto;
-  width: 10%;
+  width: 40%;
 	}
 
 	.marginauto {
