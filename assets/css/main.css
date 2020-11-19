@@ -245,7 +245,13 @@ input, select, textarea {
 			  margin-right: auto;
 			  width: 40%;
 				}
-
+				a.imagecentmarg{
+					display: block;
+					margin-left: auto;
+					margin-right: auto;
+					margin-bottom: 10%;
+					width: 40%;
+					}
 
 	strong, b {
 		color: #ffffff;
