@@ -33,6 +33,11 @@ body {
 	line-height: 1;
 }
 
+#figma {
+	height: 100vh;
+	max-width: 100vw;
+}
+
 ol, ul {
 	list-style: none;
 }
