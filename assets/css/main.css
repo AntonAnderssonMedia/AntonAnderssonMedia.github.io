@@ -92,6 +92,17 @@ input, select, textarea {
 			height: 100%;
 		}
 
+	/* Slightly taller embed variant (for the earthquake project) */
+	.videoWrapper.earthquake-embed {
+			padding-bottom: 78%; /* you can tweak this value */
+	}
+
+	/* Make the earthquake iframe a bit wider than the content column */
+	.videoWrapper.earthquake-embed iframe {
+			width: 110%;
+			left: -5%;
+	}
+
 	@-ms-viewport {
 		width: device-width;
 	}
